@@ -21,6 +21,6 @@
   "author": "Jan-Felix Schwarz",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-signavio": "^1.1.0"
+    "eslint-config-signavio": "^1.2.0"
   }
 }

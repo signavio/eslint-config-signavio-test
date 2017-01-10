@@ -7,4 +7,8 @@ module.exports = {
   plugins: [
     'jest',
   ],
+  env: {
+    mocha: true,
+    jest: true,
+  },
 }

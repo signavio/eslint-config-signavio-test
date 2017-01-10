@@ -4,4 +4,7 @@ module.exports = {
     'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
     'no-unused-expressions': 'off',
   },
+  plugins: [
+    'jest',
+  ],
 }
